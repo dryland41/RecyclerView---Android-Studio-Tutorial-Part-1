@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Recycler</string>
+    <string-array name="programming_languages">
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>.NET</item>
+        <item>PHP</item>
+        <item>Python</item>
+        <item>Scala</item>
+    </string-array>
+    <string-array name="description">
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+        <item>Lorem ipsum hocud podus foci albatros insceium fracti squeegy cheese space station.</item>
+    </string-array>
+</resources>
